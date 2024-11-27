@@ -55,7 +55,7 @@ function NavBar(){
       </div>
 
       <div>
-        <ul className='flex items-center gap-10 pl-5 bg-white sm:bg-black  '>
+        <ul className='flex items-center gap-10 pl-5 bg-white'>
           <li className='cursor-pointer duration-300 ease-in hover:border-b hover:border-gray-400'>Home</li>
           <li className='cursor-pointer duration-300 ease-in hover:border-b hover:border-gray-400'>Courses</li>
           <li className='cursor-pointer duration-300 ease-in hover:border-b hover:border-gray-400'>Services</li>
