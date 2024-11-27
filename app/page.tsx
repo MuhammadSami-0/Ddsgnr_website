@@ -518,13 +518,13 @@ function Footer(){
     <div className='h-lg'>
       <div className='pt-28 pl-40 pr-40 flex flex-col gap-24'>
 
-        <div className='flex items-center justify-around '>
+        <div className='flex justify-center'>
           <div className='w-3/4'>
             <p className='font-bold'>Subscribe To Our Newsletter</p>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde, odio!</p>
           </div>
-          <div className='flex flex-col gap-2 pt-6'>
-            <input className='border-2 border-black rounded h-12 pl-4' type="text-area" name='text' placeholder='Email' />
+          <div className='flex flex-col gap-2 pr-6'>
+            <input className='border-2 border-black rounded h-12 pl-4' type="text" name='text' placeholder='Email' />
             <p className='text-xs'>By subscribing you agree to our privacy policy</p>
           </div>
           <div>
