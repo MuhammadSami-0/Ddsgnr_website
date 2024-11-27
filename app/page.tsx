@@ -8,9 +8,6 @@ import { FaRegArrowAltCircleRight } from "react-icons/fa";
 import { FaRegArrowAltCircleLeft } from "react-icons/fa";
 
 
-
-import { GiAchievement } from 'react-icons/gi';
-
 export default function Home() {
   return (
     <div>
