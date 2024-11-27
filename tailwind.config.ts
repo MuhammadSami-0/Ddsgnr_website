@@ -19,7 +19,8 @@ export default {
         ch:'534px'
       },
       width:{
-        lg:'640px'
+        lg:'640px',
+        sm:'428px'
       }
     },
   },
