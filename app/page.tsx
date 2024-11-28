@@ -513,7 +513,7 @@ function Customer(){
 function Footer(){
   return(
     <div className='h-lg w-xl'>
-      <div className='pt-28 pl-40 pr-40 flex flex-col gap-24 '>
+      <div className='pt-28 pr-20 pl-20 flex flex-col gap-24 '>
 
         <div className='flex justify-center'>
           <div className='w-3/4'>
