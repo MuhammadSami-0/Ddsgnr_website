@@ -20,7 +20,8 @@ export default {
       },
       width:{
         lg:'640px',
-        sm:'428px'
+        sm:'428px',
+        xl:'1280px'
       }
     },
   },
