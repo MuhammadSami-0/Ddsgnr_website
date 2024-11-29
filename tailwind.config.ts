@@ -7,15 +7,21 @@ export default {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    screens:{
+      mob:"428px",
+    },
     extend: {
+      
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
       height:{
         lg:'800px',
-        xl:'1049px',
+        llg:'950px',
+        xl:'1100px',
         xxl:'1742px',
+        vl:'2230px',
         ch:'534px'
       },
       width:{
